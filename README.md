@@ -3,5 +3,7 @@
 Bem vinde ao meu livro de receitas.
 
 - Strogonoff;
+- Pavê;
+
 
 
